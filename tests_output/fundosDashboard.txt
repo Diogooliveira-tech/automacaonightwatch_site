@@ -1,0 +1,23 @@
+Gestor
+XP VISTA ASSET MANAGEMENT LTDA.
+Administrador
+VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA
+Custodiante
+VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA
+Auditor
+ERNST & YOUNG AUDITORES INDEPENDENTES S/S
+Distribuidor
+XP INVESTIMENTOS CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S/A
+Verificadora
+Patrimônio Líquido
+R$2.278.464.619,88
+Data de Fundação
+01/06/2018
+GIIN
+RZCNC599999SL076
+E-mail RI
+ri@xpasset.com.br
+Site RI
+https://www.xpasset.com.br/xplog/
+Informe de Rendimentos
+Clique aqui para gerar o IR

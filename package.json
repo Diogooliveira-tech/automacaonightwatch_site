@@ -1,0 +1,25 @@
+{
+  "name": "vortxwebsite",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados com Nightwatch ",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\nightwatch.cmd"
+  },
+  "keywords": [
+    "testes",
+    "nodejs",
+    "webdriver",
+    "nightwatch",
+    "vortx"
+  ],
+  "author": "Everton Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-add-module-exports": "^1.0.2",
+    "babel-preset-es2015": "^6.24.1",
+    "chromedriver": "^86.0.0",
+    "nightwatch": "^1.4.3"
+  }
+}

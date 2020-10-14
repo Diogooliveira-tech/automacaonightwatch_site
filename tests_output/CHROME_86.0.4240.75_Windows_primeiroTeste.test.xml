@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="6">
+
+  <testsuite name="primeiroTeste.test"
+    errors="0" failures="0" hostname="" id="" package="primeiroTeste.test" skipped="0"
+    tests="6" time="48.97" timestamp="">
+  
+    <testcase name="Dado que acesso o site da Vortx" classname="primeiroTeste.test" time="2.205" assertions="0">
+    </testcase>
+  
+    <testcase name="E clico na seção de investidor" classname="primeiroTeste.test" time="0.2370" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Quando acesso CRI" classname="primeiroTeste.test" time="1.224" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="E seleciono a primeira operação da ordem alfabética" classname="primeiroTeste.test" time="40.95" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="então faço download da previsão de PU" classname="primeiroTeste.test" time="4.150" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="e salvo as informações da operação em um arquivo" classname="primeiroTeste.test" time="0.2040" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        ReferenceError: click is not defined
+       at Timeout._onTimeout (C:/Users/diogo/automacaonightwatch/pages/cri.js:30:13)
+       at listOnTimeout (internal/timers.js:554:17)
+       at processTimers (internal/timers.js:497:7)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
