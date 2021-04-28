@@ -13,7 +13,7 @@
     "nightwatch",
     "vortx"
   ],
-  "author": "Everton Santos",
+  "author": "Diogo Marques de Oliveira",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
