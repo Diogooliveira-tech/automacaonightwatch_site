@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
- - O projeto consiste em realizar automação de testes na camada de aceitação web, aonde foi implementado cenários de login e suas variações, cenário com o preenchimento de um formulário simples e um mais complexo. O preenchimento desse formulário é o que possibilita o cadastro de filmes, no projeto também  possui uma consulta dos filmes que foram cadastrados na plataforma.
+- Realizar acesso a um determinado Site e fazer uma busca e download de arquivos.
 
  ### NightWatch - Framework
 
