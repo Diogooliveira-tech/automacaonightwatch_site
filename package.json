@@ -13,13 +13,13 @@
     "nightwatch",
     "vortx"
   ],
-  "author": "Everton Santos",
+  "author": "Diogo Marques de Oliveira",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-add-module-exports": "^1.0.2",
     "babel-preset-es2015": "^6.24.1",
-    "chromedriver": "^86.0.0",
+    "chromedriver": "^93.0.0",
     "nightwatch": "^1.4.3"
   }
 }
